@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Boundary-Augmented Neural Operators for Better Generalization to Unseen Geometries
+    authors: <strong>Jiayi Zhou</strong>, Valentin Duruisseaux, Daniel Zhengyu Huang, Anima Anandkumar
+    conference_short: NeurIPS
+    conference: AI4Science Workshop at the Annual Conference on Neural Information Processing Systems, 2025
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/jiayizhou22/GeoGeneralization
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example.png
+    notes: Accepted
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: Point Cloud Neural Operator for Parametric PDEs on Complex and Variable Geometries
+    authors: Chenyu Zeng<sup>*</sup>, Yanshu Zhang<sup>*</sup>, </strong>Jiayi Zhou<sup>*</sup></strong>, Yuhan Wang, Zilin Wang, Yuhao Liu, Lei Wu, Daniel Zhengyu Huang
+    conference_short: CMAME
+    conference: Computer Methods in Applied Mechanics and Engineering}, 2025
+    pdf: https://arxiv.org/pdf/2501.14475
+    code: https://github.com/PKU-CMEGroup/NeuralOperator?tab=readme-ov-file
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Accepted
     image: ./assets/img/teaser_example.png

@@ -4,10 +4,8 @@ main:
     authors: <strong>Jiayi Zhou</strong>, Valentin Duruisseaux, Daniel Zhengyu Huang, Anima Anandkumar
     conference_short: NeurIPS
     conference: AI4Science Workshop at the Annual Conference on Neural Information Processing Systems, 2025
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/jiayizhou22/GeoGeneralization
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_bno_1.png
     notes: Accepted
 
   - title: Point Cloud Neural Operator for Parametric PDEs on Complex and Variable Geometries
@@ -16,7 +14,5 @@ main:
     conference: Computer Methods in Applied Mechanics and Engineering}, 2025
     pdf: https://arxiv.org/pdf/2501.14475
     code: https://github.com/PKU-CMEGroup/NeuralOperator?tab=readme-ov-file
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Accepted
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_pcno.png

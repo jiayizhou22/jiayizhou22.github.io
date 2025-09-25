@@ -16,4 +16,3 @@ My research focuses on scientific machine learning, aiming to integrate data-dri
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}

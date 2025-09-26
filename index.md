@@ -15,4 +15,4 @@ My research focuses on scientific machine learning, aiming to integrate data-dri
 - **[Jun. 2025]** Excited to spend the summer at Caltech for SURF!
 
 {% include_relative _includes/publications.md %}
-<small> <sup>*</sup> denotes equal contribution</small>
+

@@ -47,5 +47,6 @@
 
 {% endfor %}
 
+<small> <sup>*</sup> denotes equal contribution</small>
 </ol>
 </div>

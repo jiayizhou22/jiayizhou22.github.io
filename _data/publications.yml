@@ -9,7 +9,7 @@ main:
     notes: Accepted
 
   - title: Point Cloud Neural Operator for Parametric PDEs on Complex and Variable Geometries
-    authors: Chenyu Zeng<sup>*</sup>, Yanshu Zhang<sup>*</sup>, </strong>Jiayi Zhou<sup>*</sup></strong>, Yuhan Wang, Zilin Wang, Yuhao Liu, Lei Wu, Daniel Zhengyu Huang
+    authors: Chenyu Zeng<sup>*</sup>, Yanshu Zhang<sup>*</sup>, <strong> Jiayi Zhou<sup>*</sup> </strong>, Yuhan Wang, Zilin Wang, Yuhao Liu, Lei Wu, Daniel Zhengyu Huang
     conference_short: CMAME
     conference: Computer Methods in Applied Mechanics and Engineering}, 2025
     pdf: https://arxiv.org/pdf/2501.14475

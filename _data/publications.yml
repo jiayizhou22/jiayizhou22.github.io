@@ -4,6 +4,8 @@ main:
     authors: <strong>Jiayi Zhou</strong>, Valentin Duruisseaux, Daniel Zhengyu Huang, Anima Anandkumar
     conference_short: NeurIPS
     conference: AI4Science Workshop at the Annual Conference on Neural Information Processing Systems, 2025
+    pdf: https://openreview.net/pdf?id=DqZoWaDwfN
+    url: https://openreview.net/forum?id=DqZoWaDwfN#discussion
     code: https://github.com/jiayizhou22/GeoGeneralization
     image: ./assets/img/teaser_bno_1.png
     notes: Accepted
@@ -13,6 +15,7 @@ main:
     conference_short: CMAME
     conference: Computer Methods in Applied Mechanics and Engineering, 2025
     pdf: https://arxiv.org/pdf/2501.14475
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0045782525002944
     code: https://github.com/PKU-CMEGroup/NeuralOperator?tab=readme-ov-file
     notes: Accepted
     image: ./assets/img/teaser_pcno.png

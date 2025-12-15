@@ -11,7 +11,7 @@ My research focuses on scientific machine learning, aiming to integrate data-dri
 
 ## News
 
-- **[Dec. 2025]** I may attend NeurIPS — feel free to reach out if you are there!  
+- **[Dec. 2025]** I'll attend NeurIPS — feel free to reach out if you are there!  
 - **[Jun. 2025]** Excited to spend the summer at Caltech for SURF!
 
 {% include_relative _includes/publications.md %}

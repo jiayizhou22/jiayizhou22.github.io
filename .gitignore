@@ -4,4 +4,5 @@ Gemfile.lock
 *.gem
 .DS_Store
 .jekyll-cache
+.cache
 git-update.sh

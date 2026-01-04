@@ -1,0 +1,19 @@
+<div class="topnav">
+    <div class="topnav-inner">
+
+        <div class="topnav-left"></div>
+
+        <div id="myLinks" class="topnav-center">
+            <a class="topnav-item{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+            <a class="topnav-item{% if page.url contains '/blog/' %} active{% endif %}"
+                href="{{ '/blog/' | relative_url }}">Blog</a>
+            <a class="topnav-item{% if page.url contains '/publications/' %} active{% endif %}"
+                href="{{ '/publications/' | relative_url }}">Publications</a>
+        </div>
+
+        <div class="topnav-right">
+            <button id="theme-toggle" class="theme-toggle-btn">🌓</button>
+        </div>
+
+    </div>
+</div>

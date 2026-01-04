@@ -7,7 +7,7 @@ main:
     pdf: https://openreview.net/pdf?id=DqZoWaDwfN
     url: https://openreview.net/forum?id=DqZoWaDwfN#discussion
     code: https://github.com/jiayizhou22/GeoGeneralization
-    image: ./assets/img/teaser_bno_1.png
+    image: /assets/img/teaser_bno_1.png
     notes: Accepted
 
   - title: Point Cloud Neural Operator for Parametric PDEs on Complex and Variable Geometries
@@ -18,4 +18,4 @@ main:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0045782525002944
     code: https://github.com/PKU-CMEGroup/NeuralOperator?tab=readme-ov-file
     notes: Accepted
-    image: ./assets/img/teaser_pcno.png
+    image: /assets/img/teaser_pcno.png

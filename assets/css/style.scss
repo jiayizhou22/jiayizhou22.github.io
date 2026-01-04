@@ -1,4 +1,10 @@
 ---
 ---
 
-@import "minimal-light";
+
+@use 'color-theme';
+@use 'layout';
+@use 'base';
+@use 'font';
+@use 'button';
+@use 'nav';

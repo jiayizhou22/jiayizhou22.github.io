@@ -10,7 +10,7 @@ auto_dark_mode: false
 font: "Serif"
 
 url: "https://jiayizhou22.github.io"
-baseurl: "/"
+baseurl: ""
 
 collections:
   pages:

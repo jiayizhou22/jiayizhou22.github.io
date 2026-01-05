@@ -3,7 +3,7 @@ body {
 }
 
 .wrapper {
-    width: 960px;
+    width: 920px;
     margin: 0 auto;
 
     @media screen and (max-width: 960px) {
@@ -16,6 +16,7 @@ body {
 section {
     width: 650px;
     float: right;
+    text-align: justify;
     padding-top: 4.0em;
     padding-bottom: 50px;
 
@@ -29,6 +30,11 @@ section {
     margin: 0 auto;
     padding-top: 4em;
     padding-bottom: 50px;
+
+    @media screen and (max-width: 980px) {
+        padding-top: 100px;
+        text-align: justify;
+    }
 }
 
 .wrapper.two-column {
@@ -170,9 +176,9 @@ screen and (max-width: 960px) {
 
 
     .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
-        padding: 20px;
+        border-radius: 25%;
+        width: 25%;
+        padding: 10px;
     }
 
     #head1o2 {
@@ -233,9 +239,9 @@ screen and (max-width: 480px) {
     }
 
     .image.avatar img {
-        border-radius: 100%;
-        width: 95px;
-        padding: 20px;
+        border-radius: 25%;
+        width: 25%;
+        padding: 10px;
     }
 
     #head1o2 {

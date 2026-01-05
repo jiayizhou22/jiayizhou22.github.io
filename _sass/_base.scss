@@ -45,7 +45,7 @@ body:not(.dark-mode) .text-accent:hover {
 a:hover .text-accent {
   color: var(--link-hover);
   transform: scale(1.01);
-  text-shadow: 0 0 6px rgba(255, 117, 117, 0.4);
+  text-shadow: 0 0 6px rgba(255, 132, 132, 0.528);
 }
 
 
@@ -81,9 +81,9 @@ a:hover .text-accent {
 }
 
 .image.avatar img {
-  border-radius: 15%;
-  width: 45%;
-  padding: 10px;
+  border-radius: 25%;
+  width: 40%;
+  padding: 15px;
 }
 
 #header .image.avatar {

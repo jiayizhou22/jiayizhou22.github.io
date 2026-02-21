@@ -1,4 +1,13 @@
 main:
+  - title: Geometric Generalization of Neural Operators from Kernel Integral Perspective
+    authors: Mingyu Han<sup>*</sup>, Daniel Zhengyu Huang<sup>*</sup>, Yuhan Wang<sup>*</sup>, Yanshu Zhang<sup>*</sup>, <strong>Jiayi Zhou<sup>*</sup></strong>, 
+    conference_short: arxiv
+    # conference: AI4Science Workshop at the Annual Conference on Neural Information Processing Systems, 2025
+    pdf: https://arxiv.org/pdf/2602.01498
+    url: https://arxiv.org/abs/2602.01498
+    # code: https://github.com/jiayizhou22/GeoGeneralization
+    image: /assets/img/teaser_kernel.pdf
+    notes: Submitted
 
   - title: Boundary-Augmented Neural Operators for Better Generalization to Unseen Geometries
     authors: <strong>Jiayi Zhou</strong>, Valentin Duruisseaux, Daniel Zhengyu Huang, Anima Anandkumar

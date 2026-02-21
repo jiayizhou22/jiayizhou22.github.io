@@ -6,3 +6,4 @@ Gemfile.lock
 .jekyll-cache
 .cache
 git-update.sh
+test_command.txt
